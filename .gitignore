@@ -1,0 +1,8 @@
+# gitignore tells git which files (or patterns) it should ignore
+#When you create a Git repository for your project, Git automatically tracks changes in all files and directories. However,
+# there are certain files or directories that you might not want to include in version control, such as temporary files, compiled binaries, or sensitive information.
+#The .gitignore file allows you to specify patterns that match files or directories you want Git to ignore 
+
+# thier is a long list of git igonore which github also provide
+
+venv/
