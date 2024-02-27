@@ -2,4 +2,4 @@ pandas
 numpy
 flask 
 
--e .
+-e .  # -e is not a library it is used to trigger tthe setup.py file to automate the processa and to create the packages of the project
